@@ -1,0 +1,12 @@
+.random-planet {
+  min-height: 248px;
+}
+
+.random-planet__img {
+  width: 200px;
+  height: 200px;
+}
+
+.random-planet__text h3 {
+  margin-left: -20px
+}

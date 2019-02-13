@@ -1,0 +1,10 @@
+.item-details {
+  min-height: 200px;
+}
+
+.item-details__img {
+  width: 200px;
+}
+.item-details__term {
+  margin-right: 10px;
+}

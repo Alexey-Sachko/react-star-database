@@ -1,0 +1,11 @@
+.error-indicator {
+  max-width: 300px;
+}
+
+.error-indicator__icon {
+  width: 100px;
+}
+
+.error-indicator span {
+  display: block;
+}
